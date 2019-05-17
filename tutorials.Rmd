@@ -6,7 +6,7 @@ title: "Tutorials"
 
 #Developing research questions
 
-For this project, we will investigate how writing is structured in academic disciplines, specifically 
+For this project, we will investigate how writing is structured in academic disciplines. To start thinking about these issues, I recommend investigating major readings on the topic.  Two texts to start with are Hyland's (2006) "Disciplinary differences: Language variation in academic discourses" and Biber's (1988) [*Variation across speech and writing*](https://wfu.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42LgTQStzc4rAe_hSmEG7Q81NDQDdS3M2RjENUKznZNCAzSdg8DH6UNlTDhg4yIGZhYmJsZGnAzKYcDOIth1CongGkOhuCA1NTlDAdjDVigHnfiTl87DwJoGjKVUXgaWkqJSYHkq5eYa4uyhW55WGg8d_ogHtgcsLMxAlx_jlVTGlITN_wBVgSYITYwByLM-rQ)
 
 #Data for text analysis
 
@@ -31,4 +31,5 @@ Finally, once you have considered these questions, we will talk as a class about
 
 ##Using R for text analysis
 
+*This bit is empty and will remain so until I have a half-day of free time and a pot of coffee.*  
 

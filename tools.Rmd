@@ -3,6 +3,8 @@ title: "Tools"
 ---
 ```{r, child="_setup.Rmd"}
 ```
+This is a very abbreviated list of a few select tools and resources that you may find useful in building and analyzing textual data.  
+
 ##Text Analysis Tools
 For students in writing courses, you may want to conduct some analysis of the texts you are using for your projects.  To do so, there are several ready-made tools that can help you with the analysis.  
   One popular way to analyze texts is to use a concordancer, that will allow you to search for Key Words in Context, see word lists by frequency, and see collocations.  A useful (and free) concordancer is Antconc, created by Lawrence Anthony. Anthony’s [website](https://www.laurenceanthony.net/) offers lots of text analysis software tools like [AntConc](https://www.laurenceanthony.net/software/antconc/) and [AntWordProfiler](https://www.laurenceanthony.net/software/antwordprofiler/), along with thorough documentation and help files. 
@@ -28,4 +30,9 @@ If you want to analyze texts or language use already out there in the universe, 
 * [MICUSP](http://micase.elicorpora.info) – Michigan Corpus of Upper-Level Student Papers
 * [Trump Twitter Archive](http://trumptwitterarchive.com/archive) – Searchable database of all of Trump's Tweets (and several other related Twitter accounts)
 * [Wikipedia Corpus](https://corpus.byu.edu/wiki/) – quickly create your own corpus of Wikipedia articles on related topics.
+
+##Cleaning and managing data
+
+* OpenRefine
+* [AntFileConverter](http://www.laurenceanthony.net/software/antfileconverter/)
 
