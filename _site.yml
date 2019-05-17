@@ -1,0 +1,29 @@
+name: "Text Analysis for Writing Courses"
+output_dir: "docs"
+navbar:
+  title: "Text Analysis for Writing Courses"
+  right:
+  - text: "Home"
+    icon: fa-home
+    href: index.html
+  - text: "Tutorials"
+    icon: fa-compass
+    href: tutorials.html
+  - text: "Tools"
+    icon: fa-toolbox
+    href: tools.html
+  - text: "Projects"
+    icon: fa-project-diagram
+    href: projects.html
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    css: css/style.css
+    df_print: paged
+    toc: true
+    toc_float: yes
+    bibliography: library.bib
+    biblio-style: apalike
+    include:
+      after_body: footer.html

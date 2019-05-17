@@ -1,0 +1,34 @@
+---
+title: "Tutorials"
+---
+```{r, child="_setup.Rmd"}
+```
+
+#Developing research questions
+
+For this project, we will investigate how writing is structured in academic disciplines, specifically 
+
+#Data for text analysis
+
+For the first stage of the project, we will be building a corpus of academic research in a field/discipline you are interested in. To do so, you should gather between 10-15 articles from the field that can provide a representative sample of research writing in the field. Before you begin collecting the articles, it may be useful to investigate writing in your chosen field and reflect on what your sample corpus should include.  Questions to consider can begin with: 
+* What types of research writing occur in the field?  What types of articles are usually published in the field?  
+* What journals are the most widely read in the field?  What general or specific topics are widely published in the field?  
+* How quickly does the field change?  What time period should you look to when choosing your articles?  The last year?  The last decade?  
+
+Finally, once you have considered these questions, we will talk as a class about building a larger database together that allows for analysis *across* disciplines and types of research writing.  What considerations need to be made to make sure your individual sample is representative of the field but can also be compared with a sub-corpus from another field?  
+
+1. Gathering data
+2. Cleaning and preparing data
+3. Managing data and documentation
+
+#Analyzing and interpreting data
+
+1. Matching research questions with methods
+2. Common methods in textual analysis
+3. Reporting results
+4. Visualizing results
+5. Interpreting results
+
+##Using R for text analysis
+
+

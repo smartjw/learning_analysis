@@ -1,0 +1,13 @@
+---
+title: "Text Analysis for Writing Courses"
+---
+```{r, child="_setup.Rmd"}
+```
+
+As you begin your first project using methods of textual analysis, it is useful to think about several important factors: 
+
+1. The research questions you want to address (or how to develop research questions)
+2. The data you will be analyzing
+3. The methods you will use to organize, analyze, and interpreting the data
+
+To help you think through these questions
