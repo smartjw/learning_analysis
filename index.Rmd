@@ -6,8 +6,8 @@ title: "Text Analysis for Writing Courses"
 
 ##Please note: 
 
-This website is in an early draft format and will be relocated when finished.  *Everything on the Tutorials, Tools, and other pages is (currently) either really dumb, wrong, or grammatically inaccurate.*  
-
+ 
+*This website is in an early draft format and will be relocated when finished. Everything on the Tutorials, Tools, and other pages is (currently) either really dumb, wrong, or grammatically inaccurate.* 
 As you begin your first project using methods of textual analysis, it is useful to think about several important factors: 
 
 1. The research questions you want to address (or how to develop research questions)
